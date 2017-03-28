@@ -132,6 +132,7 @@ declare namespace Jungle {
         host: BaseCell;
         preparator: (arg) => void;
         depreparator: (arg) => void;
+        static RFormProps: string[];
         constructor(host: BaseCell);
         parse(formObj: FormSpec): {
             iospec: any;
@@ -204,6 +205,7 @@ declare namespace Jungle {
             ports: PortSpec[];
             constructor(host: BaseCell, iospec: any);
             dress(designation: any, coat: OutputCoat): void;
+            hostAlias(): void;
             enshell(): Shell;
             extract(): any;
         }

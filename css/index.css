@@ -1,0 +1,36 @@
+
+body {
+    background-color:rgb(164, 180, 118);
+    font-size:24px;
+    margin:0px;
+}
+
+.title-bar {
+    text-align:center;
+    font-size: 30px;
+    height:70px;
+    line-height:60px;
+    width:100%;
+    background-color:rgb(161, 175, 139);
+}
+
+.example-container{
+    width:100%;
+    display:flex;
+    flex-wrap:nowrap;
+}
+
+.example {
+    width:150px;
+    flex-shrink:1;
+    text-align:center;
+    background-color:rgb(153, 159, 91);
+
+    border-radius:10px;
+    padding-top:15px;
+    margin:20px;
+}
+
+.example a {
+
+}

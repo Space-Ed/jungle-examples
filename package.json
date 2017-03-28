@@ -1,0 +1,22 @@
+{
+  "name": "jungle-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Space-Ed/jungle-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Space-Ed/jungle-examples/issues"
+  },
+  "homepage": "https://github.com/Space-Ed/jungle-examples#readme",
+  "dependencies": {
+    "octavian": "^2.2.0"
+  }
+}
