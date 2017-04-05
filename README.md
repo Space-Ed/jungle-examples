@@ -3,6 +3,9 @@
 A repository of misc explanitory examples for the jungle framework
 Currently very lackluster
 
+ Examples are hosted at 
+ jungleorganic.space
+
 ---
 
 ## Usage
